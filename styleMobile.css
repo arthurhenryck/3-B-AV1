@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+}
+
+.TopBox{
+    width: 430px;
+    height: 309px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: bisque;
+}
+
+.BottomBox{
+    width: 430;
+    height: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
